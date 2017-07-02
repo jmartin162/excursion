@@ -1,0 +1,31 @@
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1 {
+  color: white;
+  font-size: 50 px;
+  text-align: center;
+}
+
+.excursion {
+  color:aquamarine;
+  font-size: 16 px;
+}
+
+.guide {
+  font-size: 42 px;
+  font-eight: 300;
+}
+
+.remembers {
+  font-size: 21 px;
+  color: gray;
+}
+
+.copy {
+  color:gray;
+  text-align:right;
+}
